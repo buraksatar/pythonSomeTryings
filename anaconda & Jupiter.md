@@ -26,3 +26,7 @@ conda env list
 
 # Remove environments
 conda env remove -n env_name
+
+# FOR JUPITER
+to install - conda install jupyter notebook
+to open - jupyter notebook 
