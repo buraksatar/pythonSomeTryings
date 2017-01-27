@@ -20,3 +20,9 @@ source activate my_env
 
 source deactivate
 deactivate
+
+# List environments
+conda env list
+
+# Remove environments
+conda env remove -n env_name
